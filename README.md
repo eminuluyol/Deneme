@@ -1,2 +1,2 @@
 # Deneme
-Sample
+Deneme aslolan budur
